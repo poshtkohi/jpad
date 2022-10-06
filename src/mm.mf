@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: ic.poshtkohi.gui.MainApp
+
+Name: ic/poshtkohi/gui/
+Sealed: true
+
