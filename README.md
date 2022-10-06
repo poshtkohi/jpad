@@ -7,4 +7,6 @@ During my MS studies, I developed an electronic design automation tool named JPA
 Two snapshots of the program are shown below
 
 ![The first snapshot of JPAD](/assets/images/1.png)
+
+
 ![The second snapshot of JPAD](/assets/images/2.png)
