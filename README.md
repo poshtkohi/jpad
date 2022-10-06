@@ -4,7 +4,7 @@ During my MS studies, I developed an electronic design automation tool named JPA
 
 **Licence:** Note that the code can be changed and reused until you keep the copyright inside and at the beginning of every Java file in the source directory.
 
-Two snapshots of the program are shown below:
+Two snapshots of the program are shown below
 
 ![The first snapshot of JPAD](/assets/images/1.png)
 ![The second snapshot of JPAD](/assets/images/2.png)
